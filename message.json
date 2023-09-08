@@ -1,0 +1,26 @@
+[
+{
+  "title": "V0.3.0 更新",
+  "message": "修复成绩页面概率无法加载，请快速去 App Store 或 Github 更新！",
+  "isLink": "false",
+  "type": "更新"
+},
+{
+  "title": "2023-2024 校历",
+  "message": "https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ",
+  "isLink": "true",
+  "type": "学校"
+},
+{
+  "title": "欢迎使用本应用",
+  "message": "欢迎使用 XDYou / TraintimePDA！如有问题可加群 902652582。",
+  "isLink": "false",
+  "type": "应用"
+},
+{
+  "title": "西电微软社团 2023 招新",
+  "message": "https://mp.weixin.qq.com/s?__biz=MjM5NjExMzI0MA==&mid=2649794524&idx=1&sn=e5262e683810cb0df3978fa47a06b298",
+  "isLink": "false",
+  "type": "社团"
+}
+]
