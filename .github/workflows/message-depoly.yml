@@ -20,7 +20,7 @@ jobs:
       run: mkdir public
 
     - name: Install miller
-      run: apt-get install miller
+      run: sudo apt-get install miller
 
     - name: Generate json
       run: mlr --icsv --ojson cat message.csv > message.json
