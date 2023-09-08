@@ -29,8 +29,7 @@ jobs:
       run:  cp message.json public/
 
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@releases/v4
       with:
-        REPOSITORY_NAME: BenderBlog/traintime_pda_backend
-        BRANCH: main
+        BRANCH: depoly
         FOLDER: public
