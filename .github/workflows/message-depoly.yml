@@ -1,4 +1,4 @@
-name: hourly-xdu-planet
+name: message-depoly
 
 on:
   push:
@@ -13,6 +13,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
+        repository: BenderBlog/traintime_pda_backend
+        token: ${{ secret.DEPOLY_TOKEN }}
         ref: master
         path: ./
 
