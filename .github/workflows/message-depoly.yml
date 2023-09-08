@@ -13,9 +13,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        repository: BenderBlog/traintime_pda_backend
-        token: ${{ secrets.DEPOLY_TOKEN }}
-        ref: master
+        ref: main
         path: ./
 
     - name: Mkdir public
