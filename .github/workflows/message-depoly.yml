@@ -1,0 +1,36 @@
+name: hourly-xdu-planet
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        ref: master
+        path: ./
+
+    - name: Mkdir public
+      run: mkdir public
+
+    - name: Install miller
+      run: apt-get install miller
+
+    - name: Generate json
+      run: mlr --icsv --ojson cat message.csv > message.json
+
+    - name: Copy json
+      run:  cp message.json public/
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        REPOSITORY_NAME: xeonds/xdu-planet
+        BRANCH: main
+        FOLDER: public
