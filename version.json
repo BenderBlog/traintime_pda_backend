@@ -1,0 +1,10 @@
+{
+    "code": "0.3.0",
+    "update": [
+        "修复成绩概率性无法查看问题",
+        "登录失败后自动清除缓存",
+        "iOS 版本提供新的开屏图"
+    ],
+    "ioslink": "https://apps.apple.com/cn/app/xdyou/id6461723688",
+    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v0.3.0"
+}
