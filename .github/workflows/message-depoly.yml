@@ -1,4 +1,4 @@
-name: hourly-xdu-planet
+name: message-depoly
 
 on:
   push:
@@ -13,14 +13,14 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        ref: master
+        ref: main
         path: ./
 
     - name: Mkdir public
       run: mkdir public
 
     - name: Install miller
-      run: apt-get install miller
+      run: sudo apt-get install miller
 
     - name: Generate json
       run: mlr --icsv --ojson cat message.csv > message.json
@@ -31,8 +31,7 @@ jobs:
         cp version.json public/
 
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@releases/v4
       with:
-        REPOSITORY_NAME: xeonds/xdu-planet
-        BRANCH: main
+        BRANCH: depoly
         FOLDER: public
