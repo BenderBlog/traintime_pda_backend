@@ -6,6 +6,12 @@
   "type": "学校"
 },
 {
+  "title": "A 测通知",
+  "message": "https://jwc.xidian.edu.cn/info/1012/12859.htm",
+  "isLink": "true",
+  "type": "学校"
+},
+{
   "title": "欢迎使用本应用",
   "message": "欢迎使用 XDYou / TraintimePDA！如有问题可加群 902652582。",
   "isLink": "false",
@@ -13,7 +19,7 @@
 },
 {
   "title": "西电 MSC 社团 2023 招新",
-  "message": "https://qm.qq.com/cgi-bin/qm/qr?authKey=R37Jnhwbu8x9i4BP3Kb4ckt1kn40u%2BPFczFozmt%2FpUAx0jQ2yWMXEnRZS7u1M4wF&k=2P8icnQ3m_-V9h2X0YemFEis6Cbl09uT&noverify=0",
+  "message": "https://xdmsc.club",
   "isLink": "true",
   "type": "社团"
 }
