@@ -22,5 +22,11 @@
   "message": "https://xdmsc.club",
   "isLink": "true",
   "type": "社团"
+},
+{
+  "title": "西电开源社区",
+  "message": "https://linux.xidian.edu.cn",
+  "isLink": "true",
+  "type": "社团"
 }
 ]
