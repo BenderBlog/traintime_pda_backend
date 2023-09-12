@@ -1,5 +1,11 @@
 [
 {
+  "title": "v0.3.1 修复版发布",
+  "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
+  "isLink": "true",
+  "type": "应用"
+},
+{
   "title": "2023-2024 校历",
   "message": "https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ",
   "isLink": "true",
@@ -10,12 +16,6 @@
   "message": "https://jwc.xidian.edu.cn/info/1012/12859.htm",
   "isLink": "true",
   "type": "学校"
-},
-{
-  "title": "欢迎使用本应用",
-  "message": "欢迎使用 XDYou / TraintimePDA！如有问题可加群 902652582。",
-  "isLink": "false",
-  "type": "应用"
 },
 {
   "title": "西电 MSC 社团 2023 招新",
