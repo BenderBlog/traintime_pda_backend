@@ -6,14 +6,26 @@
   "type": "应用"
 },
 {
+  "title": "XDU Planet 暂时下线",
+  "message": "因为 Azure 服务器试用到期，暂时下线 XDU Planet。等我买个新服务器很快就能上线。",
+  "isLink": "false",
+  "type": "应用"
+},
+{
   "title": "2023-2024 校历",
   "message": "https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ",
   "isLink": "true",
   "type": "学校"
 },
 {
-  "title": "体育选课通知",
-  "message": "https://jwc.xidian.edu.cn/info/1012/12879.htm",
+  "title": "交学费和注册通知",
+  "message": "https://jwc.xidian.edu.cn/info/1012/12892.htm",
+  "isLink": "true",
+  "type": "学校"
+},
+{
+  "title": "智慧树 MOOC 通知",
+  "message": "https://jwc.xidian.edu.cn/info/1012/12875.htm",
   "isLink": "true",
   "type": "学校"
 },
@@ -25,7 +37,7 @@
 },
 {
   "title": "西电开源社区 2023 年软件自由日",
-  "message": "https://www.yibiaoda.com/r/prkj0",
+  "message": "https://linux.xidian.edu.cn/news/2023-09-12-software-freedom-day.html",
   "isLink": "true",
   "type": "社团"
 }
