@@ -36,6 +36,12 @@
   "type": "学校"
 },
 {
+  "title": "礼仪广场百团大战",
+  "message": "本周五，各大社团将于南校区礼仪广场进行招新。(可能能看到本程序海报或者开发者的身影)",
+  "isLink": "false",
+  "type": "社团"
+},
+{
   "title": "西电 MSC 社团 2023 招新",
   "message": "https://xdmsc.club",
   "isLink": "true",
