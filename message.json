@@ -1,12 +1,6 @@
 [
 {
-  "title": "物理实验/体育打卡测试版",
-  "message": "https://testflight.apple.com/join/pLKe5B4q",
-  "isLink": "true",
-  "type": "应用"
-},
-{
-  "title": "v0.3.1 修复版发布",
+  "title": "v0.4.0 物理实验版发布",
   "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
   "isLink": "true",
   "type": "应用"
@@ -34,12 +28,6 @@
   "message": "https://jwc.xidian.edu.cn/info/1012/12875.htm",
   "isLink": "true",
   "type": "学校"
-},
-{
-  "title": "礼仪广场百团大战",
-  "message": "本周五，各大社团将于南校区礼仪广场进行招新。(可能能看到本程序海报或者开发者的身影)",
-  "isLink": "false",
-  "type": "社团"
 },
 {
   "title": "西电 MSC 社团 2023 招新",
