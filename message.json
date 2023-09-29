@@ -1,5 +1,11 @@
 [
 {
+  "title": "开发者祝用户双节快乐！",
+  "message": "中秋节国庆节快乐！放假时间9月29日(周四)到10月6日(周五)，然后10月7日(周六)到10月13日(周五)连续上七天的课。祝各位玩的开心，别忘了正事。",
+  "isLink": "false",
+  "type": "应用"
+},
+{
   "title": "v0.4.0 物理实验版发布",
   "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
   "isLink": "true",
@@ -14,18 +20,6 @@
 {
   "title": "2023-2024 校历",
   "message": "https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ",
-  "isLink": "true",
-  "type": "学校"
-},
-{
-  "title": "交学费和注册通知",
-  "message": "https://jwc.xidian.edu.cn/info/1012/12892.htm",
-  "isLink": "true",
-  "type": "学校"
-},
-{
-  "title": "智慧树 MOOC 通知",
-  "message": "https://jwc.xidian.edu.cn/info/1012/12875.htm",
   "isLink": "true",
   "type": "学校"
 },
