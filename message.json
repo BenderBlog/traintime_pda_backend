@@ -1,11 +1,5 @@
 [
 {
-  "title": "双节快乐和放假信息",
-  "message": "中秋节国庆节快乐！放假时间9月29日(周四)到10月6日(周五)，然后10月7日(周六)到10月13日(周五)连续上七天的课。祝各位玩的开心，别忘了正事。",
-  "isLink": "false",
-  "type": "应用"
-},
-{
   "title": "v0.4.0 物理实验版发布",
   "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
   "isLink": "true",
@@ -24,14 +18,8 @@
   "type": "学校"
 },
 {
-  "title": "西电 MSC 社团 2023 招新",
-  "message": "https://xdmsc.club",
-  "isLink": "true",
-  "type": "社团"
-},
-{
-  "title": "西电信息安全协会 2023 招新",
-  "message": "加群 755183064 了解更多，网站暂时无法提供。",
+  "title": "百团(社团)大战本月15号",
+  "message": "各种学校社团信息欢迎参观。",
   "isLink": "false",
   "type": "社团"
 }
