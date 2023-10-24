@@ -1,5 +1,11 @@
 [
 {
+  "title": "0001000000100100",
+  "message": "前三位破解该段密闻可以联系开发者获取一本书",
+  "isLink": "false",
+  "type": "应用"
+},
+{
   "title": "0.4.1 物理实验缓存测试版",
   "message": "https://testflight.apple.com/join/pLKe5B4q",
   "isLink": "true",
