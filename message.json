@@ -1,7 +1,7 @@
 [
 {
-  "title": "0.4.1 课表日历导出版",
-  "message": "https://www.bilibili.com/video/BV1yC4y1n7Q8",
+  "title": "0.4.2 测试添加自定义课程",
+  "message": "https://testflight.apple.com/join/pLKe5B4q",
   "isLink": "true",
   "type": "应用"
 },
@@ -14,12 +14,6 @@
 {
   "title": "供暖信息",
   "message": "11月15日开始供暖，请各位查看宿舍暖气是否正常使用，如果有问题咨询前台阿姨。",
-  "isLink": "false",
-  "type": "学校"
-},
-{
-  "title": "补缴医保通知",
-  "message": "11月19日之前可以缴纳，每人380块（除去陕西省内有补助的）。待遇享受期为2024年1月1日至12月31日（特别说明：2023级新生及上一年度未参保学生待遇享受期为2023年9月1日至2024年12月31日）。",
   "isLink": "false",
   "type": "学校"
 },
