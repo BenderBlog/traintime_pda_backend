@@ -1,5 +1,6 @@
 title,message,isLink,type
-0.4.3 测试滑块登录,https://testflight.apple.com/join/pLKe5B4q,true,应用
+本程序和电表无关！,本程序和电表无关，是单独一个开源项目，代码可从 github 上搜索 traintime_pda 获取。,false,应用
+0.4.3 滑块验证码适配登录,https://apps.apple.com/cn/app/xdyou/id6461723688,true,应用
 计科学生学习指南,https://zhuanlan.zhihu.com/p/652836971,true,应用
 供暖信息,11月15日开始供暖，请各位查看宿舍暖气是否正常使用，如果有问题咨询前台阿姨。,false,学校
 2023-2024 校历,https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ,true,学校
