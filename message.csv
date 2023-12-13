@@ -1,4 +1,6 @@
 title,message,isLink,type
+期末考试信息,https://jwc.xidian.edu.cn/info/1012/13042.htm,true,学校
+体测补测本周五下午,兹定于12月15日（周五）下午14：30—16：00面向我校2020级、2021级、2022级、2023级未测或体测不合格学生开展补测。详见补测文件。,false,学校
 本程序和电表无关！,本程序和电表无关，是单独一个开源项目，代码可从 github 上搜索 traintime_pda 获取。,false,应用
 0.4.3 滑块验证码适配登录,https://apps.apple.com/cn/app/xdyou/id6461723688,true,应用
 计科学生学习指南,https://zhuanlan.zhihu.com/p/652836971,true,应用
