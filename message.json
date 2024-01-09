@@ -1,5 +1,17 @@
 [
 {
+  "title": "桌面小程序测试",
+  "message": "https://testflight.apple.com/join/pLKe5B4q",
+  "isLink": "true",
+  "type": "应用"
+},
+{
+  "title": "0.4.6 新版本发布",
+  "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
+  "isLink": "true",
+  "type": "应用"
+},
+{
   "title": "期末考试信息",
   "message": "https://jwc.xidian.edu.cn/info/1012/13042.htm",
   "isLink": "true",
@@ -15,12 +27,6 @@
   "title": "本程序和电表无关！",
   "message": "本程序和电表无关，是单独一个开源项目，代码可从 github 上搜索 traintime_pda 获取。",
   "isLink": "false",
-  "type": "应用"
-},
-{
-  "title": "0.4.3 滑块验证码适配登录",
-  "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-  "isLink": "true",
   "type": "应用"
 },
 {
