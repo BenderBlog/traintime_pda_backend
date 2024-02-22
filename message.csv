@@ -1,8 +1,5 @@
 title,message,isLink,type
-桌面小程序测试,https://testflight.apple.com/join/pLKe5B4q,true,应用
-0.4.6 新版本发布,https://apps.apple.com/cn/app/xdyou/id6461723688,true,应用
-期末考试信息,https://jwc.xidian.edu.cn/info/1012/13042.htm,true,学校
-2024新年快乐，PDA/XDYou将与您一起前进！,为了新一年更加美好，更加进步，欢呼吧！同样地，本程序也将更好地在新的一年服务大家！,false,应用
-本程序和电表无关！,本程序和电表无关，是单独一个开源项目，代码可从 github 上搜索 traintime_pda 获取。,false,应用
+新课表已经发布,还是老课表的话请去设置强制刷新课表，顺便上课时间没有变。,false,应用
+1.1.0 版本测试,https://testflight.apple.com/join/pLKe5B4q,true,应用
 计科学生学习指南,https://zhuanlan.zhihu.com/p/652836971,true,应用
 2023-2024 校历,https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ,true,学校
