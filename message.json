@@ -1,32 +1,14 @@
 [
 {
-  "title": "桌面小程序测试",
+  "title": "新课表已经发布",
+  "message": "还是老课表的话请去设置强制刷新课表，顺便上课时间没有变。",
+  "isLink": "false",
+  "type": "应用"
+},
+{
+  "title": "1.1.0 版本测试",
   "message": "https://testflight.apple.com/join/pLKe5B4q",
   "isLink": "true",
-  "type": "应用"
-},
-{
-  "title": "0.4.6 新版本发布",
-  "message": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-  "isLink": "true",
-  "type": "应用"
-},
-{
-  "title": "期末考试信息",
-  "message": "https://jwc.xidian.edu.cn/info/1012/13042.htm",
-  "isLink": "true",
-  "type": "学校"
-},
-{
-  "title": "2024新年快乐，PDA/XDYou将与您一起前进！",
-  "message": "为了新一年更加美好，更加进步，欢呼吧！同样地，本程序也将更好地在新的一年服务大家！",
-  "isLink": "false",
-  "type": "应用"
-},
-{
-  "title": "本程序和电表无关！",
-  "message": "本程序和电表无关，是单独一个开源项目，代码可从 github 上搜索 traintime_pda 获取。",
-  "isLink": "false",
   "type": "应用"
 },
 {
