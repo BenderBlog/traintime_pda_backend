@@ -6,6 +6,18 @@
   "type": "学校"
 },
 {
+  "title": "强烈建议安卓用户使用 F-Droid 更新本应用",
+  "message": "随着本软件的稳定，强烈建议所有安卓用户从 F-Droid 下载更新本应用，以后本程序新版本将从这里更新。这里的软件和 Github 构建的版本二进制一致，但可能错后几天。使用 F-Droid 请访问清华大学开源镜像站获知详情。",
+  "isLink": "false",
+  "type": "应用"
+},
+{
+  "title": "本软件 F-Droid 主页面",
+  "message": "https://f-droid.org/packages/io.github.benderblog.traintime_pda/",
+  "isLink": "true",
+  "type": "应用"
+},
+{
   "title": "计科学生学习指南",
   "message": "https://zhuanlan.zhihu.com/p/652836971",
   "isLink": "true",
