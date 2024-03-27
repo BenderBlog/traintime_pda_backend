@@ -1,5 +1,6 @@
 title,message,isLink,type
 清明放假状况,4月4日(周四)到4月6日(周六)，4月7日(周日)上班。,false,学校
+期中考试消息,本学期期中考试将于4月16日至17日进行，考试安排将会在系统分发。(教务处网站还没更新，等更新了我会换成链接),false,学校
 大学四六级考试报名通知,https://mp.weixin.qq.com/s/cPZe4J7WvMfzm1a-cL71kw,true,学校
 强烈建议安卓用户使用 F-Droid 更新本应用,随着本软件的稳定，强烈建议所有安卓用户从 F-Droid 下载更新本应用，以后本程序新版本将从这里更新。这里的软件和 Github 构建的版本二进制一致，但可能错后几天。使用 F-Droid 请访问南京大学开源镜像站获知详情。,false,应用
 本软件 F-Droid 主页面,https://f-droid.org/packages/io.github.benderblog.traintime_pda/,true,应用
