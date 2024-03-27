@@ -6,6 +6,12 @@
   "type": "学校"
 },
 {
+  "title": "期中考试消息",
+  "message": "本学期期中考试将于4月16日至17日进行，考试安排将会在系统分发。(教务处网站还没更新，等更新了我会换成链接)",
+  "isLink": "false",
+  "type": "学校"
+},
+{
   "title": "大学四六级考试报名通知",
   "message": "https://mp.weixin.qq.com/s/cPZe4J7WvMfzm1a-cL71kw",
   "isLink": "true",
