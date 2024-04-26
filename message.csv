@@ -1,10 +1,8 @@
 title,message,isLink,type
 PDA 求各位帮我设计页面,根据我目前的设计，重新设计优化以下页面：日程表，图书馆信息，校园卡流水，空闲教室，成绩查询，双创竞赛，XDU Planet。设计要求：必须考虑移动设备，大屏移动界面显示状况，禁止仅移动需求然后搞个 maxwidth 啥的。回报：两个页面一张音乐 CD / LP / 51.2 元，一次性都完成附加赠送一张 CD 。多了发不出来，揭榜不发钱，我还是开源项目，也没余粮啊……,false,应用
 PDA 设计报名链接,https://scjspt.xidian.edu.cn/job/203,true,应用
-清明放假状况,4月4日(周四)到4月6日(周六)，4月7日(周日)上班。,false,学校
-期中考试消息,https://jwc.xidian.edu.cn/info/1012/13171.htm,true,学校
-大学四六级考试报名通知,https://mp.weixin.qq.com/s/cPZe4J7WvMfzm1a-cL71kw,true,学校
-强烈建议安卓用户使用 F-Droid 更新本应用,随着本软件的稳定，强烈建议所有安卓用户从 F-Droid 下载更新本应用，以后本程序新版本将从这里更新。这里的软件和 Github 构建的版本二进制一致，但可能错后几天。使用 F-Droid 请访问南京大学开源镜像站获知详情。,false,应用
+劳动节放假状况,5月1日(周三)到5月5日(周日)，其中周四的课调到4月28日(周日)，周五的课调到5月11日(周六)。,false,学校
+毕业论文盲审通知,https://jwc.xidian.edu.cn/info/1012/13255.htm,true,学校
 本软件 F-Droid 主页面,https://f-droid.org/packages/io.github.benderblog.traintime_pda/,true,应用
 计科学生学习指南,https://zhuanlan.zhihu.com/p/652836971,true,应用
 2023-2024 校历,https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ,true,学校
