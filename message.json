@@ -1,33 +1,9 @@
 [
 {
-  "title": "劳动节放假状况",
-  "message": "5月1日(周三)到5月5日(周日)，其中周四的课调到4月28日(周日)，周五的课调到5月11日(周六)。",
-  "isLink": "false",
-  "type": "学校"
-},
-{
-  "title": "毕业论文盲审通知",
-  "message": "https://jwc.xidian.edu.cn/info/1012/13255.htm",
+  "title": "期末考试通知",
+  "message": "https://jwc.xidian.edu.cn/info/1012/13399.htm",
   "isLink": "true",
   "type": "学校"
-},
-{
-  "title": "PDA 求各位帮我设计页面",
-  "message": "根据我目前的设计，重新设计优化以下页面：日程表，图书馆信息，校园卡流水，空闲教室，成绩查询，双创竞赛，XDU Planet。设计要求：必须考虑移动设备，大屏移动界面显示状况，禁止仅移动需求然后搞个 maxwidth 啥的。回报：两个页面一张音乐 CD / LP / 51.2 元，一次性都完成附加赠送一张 CD 。多了发不出来，揭榜不发钱，我还是开源项目，也没余粮啊……",
-  "isLink": "false",
-  "type": "应用"
-},
-{
-  "title": "PDA 设计报名链接",
-  "message": "https://scjspt.xidian.edu.cn/job/203",
-  "isLink": "true",
-  "type": "应用"
-},
-{
-  "title": "本软件 F-Droid 主页面",
-  "message": "https://f-droid.org/packages/io.github.benderblog.traintime_pda/",
-  "isLink": "true",
-  "type": "应用"
 },
 {
   "title": "计科学生学习指南",
