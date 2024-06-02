@@ -1,8 +1,4 @@
 title,message,isLink,type
-劳动节放假状况,5月1日(周三)到5月5日(周日)，其中周四的课调到4月28日(周日)，周五的课调到5月11日(周六)。,false,学校
-毕业论文盲审通知,https://jwc.xidian.edu.cn/info/1012/13255.htm,true,学校
-PDA 求各位帮我设计页面,根据我目前的设计，重新设计优化以下页面：日程表，图书馆信息，校园卡流水，空闲教室，成绩查询，双创竞赛，XDU Planet。设计要求：必须考虑移动设备，大屏移动界面显示状况，禁止仅移动需求然后搞个 maxwidth 啥的。回报：两个页面一张音乐 CD / LP / 51.2 元，一次性都完成附加赠送一张 CD 。多了发不出来，揭榜不发钱，我还是开源项目，也没余粮啊……,false,应用
-PDA 设计报名链接,https://scjspt.xidian.edu.cn/job/203,true,应用
-本软件 F-Droid 主页面,https://f-droid.org/packages/io.github.benderblog.traintime_pda/,true,应用
+期末考试通知,https://jwc.xidian.edu.cn/info/1012/13399.htm,true,学校
 计科学生学习指南,https://zhuanlan.zhihu.com/p/652836971,true,应用
 2023-2024 校历,https://mp.weixin.qq.com/s/L_jXTqYC5DzzkgQQUDI6MQ,true,学校
