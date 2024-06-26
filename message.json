@@ -1,9 +1,15 @@
 [
 {
-  "title": "期末考试通知",
-  "message": "https://jwc.xidian.edu.cn/info/1012/13399.htm",
-  "isLink": "true",
-  "type": "学校"
+  "title": "请在设置中手动更新课表",
+  "message": "因为下周有“思想政治理论实践课”，还有很多双创课，如果你不想等我程序三天后自动刷新，请在设置中手动更新课表。",
+  "isLink": "false",
+  "type": "应用"
+},
+{
+  "title": "评教后才能看成绩",
+  "message": "别问我为啥，我没评教看不了这学期成绩，所以快去评吧......",
+  "isLink": "false",
+  "type": "应用"
 },
 {
   "title": "计科学生学习指南",
