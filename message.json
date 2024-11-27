@@ -1,20 +1,8 @@
 [
 {
-  "title": "电费无法获取问题",
-  "message": "由于学校上了文字验证码，我在适配这个。请各位等待我放出测试版。哎，这学期这都几次出事了这个破电费查询……",
+  "title": "v1.4.1 发布",
+  "message": "主要修复电费问题，本次更新会有提示了吧:P",
   "isLink": "false",
-  "type": "应用"
-},
-{
-  "title": "v1.4.0 发布",
-  "message": "https://legacy.superbart.top/xdyou.html",
-  "isLink": "true",
-  "type": "应用"
-},
-{
-  "title": "搭子课表使用视频",
-  "message": "https://www.bilibili.com/video/BV1tgyWY8EGN?t=340.1",
-  "isLink": "true",
   "type": "应用"
 },
 {
