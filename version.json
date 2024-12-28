@@ -1,14 +1,12 @@
 {
-    "code": "1.4.1",
+    "code": "1.4.2",
     "update": [
-        "繁体中文翻译 @BenderBlog",
-        "包括转换脚本 @GodHu777777 @Hancl777",
-        "加速电费查询 @stalomeow",
-        "更改颜色 @BenderBlog @LichtYy",
-        "一些涉及课表加载的小修复 @wirsbf",
-        "新的空闲教室页面 @BrackRat @BenderBlog"
+        "校园网查询 @BenderBlog @stalomeow",
+        "修复某些状态下无法登录",
+        "修复课程表和调课信息处理方面的很多错误",
+        "更换插图，保证可爱以及开源 @BenderBlog @LichtYy @ZCWzy",
     ],
     "ioslink": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-    "fdroid": "https://www.ghproxy.cn/https://github.com/BenderBlog/traintime_pda/releases/download/v1.4.1/app-arm64-v8a-release.apk",
-    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.4.1"
+    "fdroid": "http://116.62.200.50:8080/s/nBedackoLSZZTsM",
+    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.4.2"
 }
