@@ -1,12 +1,13 @@
 {
-    "code": "1.4.2",
+    "code": "1.4.3",
     "update": [
-        "校园网查询 @BenderBlog @stalomeow",
-        "修复某些状态下无法登录",
-        "修复课程表和调课信息处理方面的很多错误",
-        "更换插图，保证可爱以及开源 @BenderBlog @LichtYy @ZCWzy"
+        "若干错误修复 @BenderBlog",
+        "英语翻译支持 @Elliot",
+        "研究生预科生测试支持 @BenderBlog",
+        "成绩缓存刷新 @BenderBlog",
+        "F-Droid 已经构建，但尚未上传，请用户注意"
     ],
     "ioslink": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-    "fdroid": "http://116.62.200.50:8080/s/nBedackoLSZZTsM",
-    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.4.2"
+    "fdroid": "https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_273.apk",
+    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.4.3"
 }
