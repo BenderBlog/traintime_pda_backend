@@ -1,6 +1,8 @@
 {
     "code": "1.5.0",
     "update": [
+        "安卓版本注意：新版本 F-Droid 确实构建成功，但尚未上传。为顾及 iOS 用户而先写了更新信息。请您在等几天在更新。",
+        "如果安卓版本点击更新链接发现无法访问，可通过 github 下载最新更新包，多数设备认准 armv8 架构即可。如有不便敬请谅解。",
         "1. 安卓小部件重构 / iOS 小部件国际化支持 @BenderBlog",
         "2. 校园卡付款二维码 @xeondes",
         "3. 本地化侦测优化 @BenderBlog 和翻译优化 @Pairman @Nancuncloud @MrBrilliant2046",
