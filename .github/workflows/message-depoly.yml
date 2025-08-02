@@ -25,13 +25,14 @@ jobs:
     - name: Generate json
       run: |
         mlr --icsv --ojson cat message.csv > message.json
-        mlr --icsv --ojson cat group.csv > group.json
+        mlr --icsv --ojson cat club.csv > club.json
    
     - name: Copy json
       run: |
         cp message.json public/
         cp group.json public/
         cp version.json public/
+        cp -r poster/ public/
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v4
