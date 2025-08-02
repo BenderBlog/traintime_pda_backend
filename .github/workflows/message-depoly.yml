@@ -26,11 +26,10 @@ jobs:
       run: |
         mlr --icsv --ojson cat message.csv > message.json
         mlr --icsv --ojson cat club.csv > club.json
-   
     - name: Copy json
       run: |
         cp message.json public/
-        cp group.json public/
+        cp club.json public/
         cp version.json public/
         cp -r poster/ public/
 
