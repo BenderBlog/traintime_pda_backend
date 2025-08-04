@@ -32,6 +32,7 @@ jobs:
         cp club.json public/
         cp version.json public/
         cp -r poster/ public/
+        cp -r club_introduction/ public/
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v4
