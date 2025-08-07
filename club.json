@@ -7,7 +7,8 @@
   "description": "致力于在全校范围内推广开源软件与精神的技术社区，运营有开源镜像、校内 Git 等服务",
   "qq": 851993750,
   "pic": 0,
-  "qqlink": "https://qm.qq.com/q/pMzu2QfUgU"
+  "qqlink": "https://qm.qq.com/q/pMzu2QfUgU",
+  "color": "teal"
 },
 {
   "code": "hifi",
@@ -17,7 +18,8 @@
   "description": "围绕高保真音乐播放的社团，耳机、解码器等",
   "qq": 748159827,
   "pic": 2,
-  "qqlink": "https://qm.qq.com/q/M2TiedELUy"
+  "qqlink": "https://qm.qq.com/q/M2TiedELUy",
+  "color": "indigo"
 },
 {
   "code": "acg-touhou",
@@ -27,7 +29,8 @@
   "description": "关于东方project与其二创的交流地带",
   "qq": 741623391,
   "pic": 1,
-  "qqlink": "https://qm.qq.com/q/8Lnn2oWeOI"
+  "qqlink": "https://qm.qq.com/q/8Lnn2oWeOI",
+  "color": "pink"
 },
 {
   "code": "acg-band",
@@ -37,17 +40,19 @@
   "description": "关于偶像团体等的交流地带",
   "qq": 741623391,
   "pic": 0,
-  "qqlink": "https://qm.qq.com/q/8Lnn2oWeOI"
+  "qqlink": "https://qm.qq.com/q/8Lnn2oWeOI",
+  "color": "brown"
 },
 {
   "code": "acg-minecraft",
-  "type": "acg",
+  "type": "acg|game",
   "title": "西电ACG社团之Minecraft部门",
   "intro": "西电最大的Minecraft社群哦",
   "description": "围绕Minecraft沙盒游戏的交流，提供服务器连接",
   "qq": 741623391,
   "pic": 1,
-  "qqlink": "https://qm.qq.com/q/8Lnn2oWeOI"
+  "qqlink": "https://qm.qq.com/q/8Lnn2oWeOI",
+  "color": "green"
 },
 {
   "code": "xduna",
@@ -57,7 +62,8 @@
   "description": "负责学校网络维护的学生组织",
   "qq": 739956355,
   "pic": 1,
-  "qqlink": "https://qm.qq.com/q/LHd9Rg4tY4"
+  "qqlink": "https://qm.qq.com/q/LHd9Rg4tY4",
+  "color": "lime"
 },
 {
   "code": "ruisi",
@@ -67,7 +73,8 @@
   "description": "学校内部的论坛和资源共享站，群聊为用户反馈群",
   "qq": 346648508,
   "pic": 0,
-  "qqlink": "https://qm.qq.com/q/EuhtEvtDgW"
+  "qqlink": "https://qm.qq.com/q/EuhtEvtDgW",
+  "color": "red"
 },
 {
   "code": "frisbee",
@@ -77,7 +84,8 @@
   "description": "关于飞碟运动的社团",
   "qq": 861106373,
   "pic": 0,
-  "qqlink": ""
+  "qqlink": "",
+  "color": "red"
 },
 {
   "code": "bicycle",
@@ -87,7 +95,8 @@
   "description": "关于自行车和骑行的运动社团",
   "qq": 238569746,
   "pic": 0,
-  "qqlink": ""
+  "qqlink": "",
+  "color": "orange"
 },
 {
   "code": "radio",
@@ -97,7 +106,8 @@
   "description": "围绕业余无线电的社团，包括不限于发射机、天线、打电报等。群聊是招新群",
   "qq": 1054795643,
   "pic": 1,
-  "qqlink": "https://qm.qq.com/q/OcSI3v06k0"
+  "qqlink": "https://qm.qq.com/q/OcSI3v06k0",
+  "color": "blue"
 },
 {
   "code": "mind",
@@ -107,6 +117,7 @@
   "description": "人文历史交流社团",
   "qq": 615332226,
   "pic": 0,
-  "qqlink": "https://qm.qq.com/q/tvNwNshNwA"
+  "qqlink": "https://qm.qq.com/q/tvNwNshNwA",
+  "color": "amber"
 }
 ]
