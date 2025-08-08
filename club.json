@@ -44,6 +44,17 @@
   "color": "blue"
 },
 {
+  "code": "irobot",
+  "type": "tech",
+  "title": "IRobot 机器人战队",
+  "intro": "机器人，听我天网号令，出击！",
+  "description": "围绕机器人竞赛的社团/竞赛队伍",
+  "qq": 285818511,
+  "pic": 1,
+  "qqlink": "https://qm.qq.com/q/9SFeumNVbW",
+  "color": "blue"
+},
+{
   "code": "mind",
   "type": "art",
   "title": "鹿鸣学会",
