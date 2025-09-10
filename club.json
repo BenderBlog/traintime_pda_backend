@@ -66,6 +66,17 @@
   "color": "amber"
 },
 {
+  "code": "card",
+  "type": "art",
+  "title": "思辨社",
+  "intro": "打牌练脑子社交好去处",
+  "description": "以桌游为主，通过桌游来提高思想辨识能力的社团",
+  "qq": 679615773,
+  "pic": 3,
+  "qqlink": "https://qm.qq.com/q/qezkdrSI1O",
+  "color": "green"
+},
+{
   "code": "acg",
   "type": "acg|art",
   "title": "西电晒你动漫社",
