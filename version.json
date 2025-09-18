@@ -1,13 +1,13 @@
 {
-    "code": "1.5.0",
+    "code": "1.5.2",
     "update": [
-        "1. 安卓小部件重构 / iOS 小部件国际化支持 @BenderBlog",
-        "2. 校园卡付款二维码 @xeondes",
-        "3. 本地化侦测优化 @BenderBlog 和翻译优化 @Pairman @Nancuncloud @MrBrilliant2046",
-        "4. 成绩页面重构 @BenderBlog",
-        "5. 若干性能优化，SDK 更新"
+        "注意：现在安卓版更名为 XDYou",
+        "如果使用 1.5.1 版本更新失败了，请重新安装。这是一个 Flutter 的程序错误",
+        "1. 校园社团推荐",
+        "2. 电费获取逻辑重构，允许所有用户更改宿舍信息",
+        "3. 若干错误修复"
     ],
     "ioslink": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-    "fdroid": "https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_303.apk",
-    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.5.0"
+    "fdroid": "https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_323.apk",
+    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.5.2"
 }
