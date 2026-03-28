@@ -1,13 +1,13 @@
 {
-    "code": "1.5.8",
+    "code": "1.5.10",
     "update": [
-        "修复自定义课程编辑页的空指针异常 @FlyingPig278",
-        "平板考勤查询页面 @imoscarz",
-        "优化体育查询界面的UI @imoscarz",
-        "切换学期功能 @BenderBlog @hazuki-keatsu",
-        "电费查询和电费绘图修复 @BenderBlog"
+        "注意：社团推荐和博客星球功能因报错频繁而被移除，在新首页写完之前暂时用猪图鉴赏代替。",
+        "（iOS only）修复小部件锁屏看不了 @BenderBlog",
+        "按需跳过物理实验成绩获取 @FlyingPig278",
+        "电费折线图和柱状图代码重写 @BenderBlog（@XinShuyu 提供了修复）",
+        "物理实验获取问题修复 @XinShuyu"
     ],
     "ioslink": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-    "fdroid": "https://mirrors.cernet.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_383.apk",
-    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.5.8"
+    "fdroid": "https://mirrors.cernet.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_403.apk",
+    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.5.10"
 }
