@@ -1,11 +1,19 @@
 {
-    "code": "1.6.2",
+    "code": "1.6.4",
     "update": [
-        "软件错误修复与质量提升",
-        "考勤信息机制更新",
-        "工具箱页面回归"
+        "验证码输入对话框刷新优化 @littlestejan",
+        "重构用户自定义课程 @hazuki-keatsu",
+        "适配二步认证（仅短信机制）@BenderBlog",
+        "网络代码优化 @BenderBlog",
+        "图书馆新接口适配 @aqqkad",
+        "图书馆搜书页面重写 @aqqkad @A1nair @BenderBlog",
+        "主页电量低提醒 @aqqkad",
+        "各类页面优化和重写 @BenderBlog",
+        "Android 构建修复 @ZYar-er",
+        "每日电量使用图渲染错误修复 @BenderBlog"
     ],
     "ioslink": "https://apps.apple.com/cn/app/xdyou/id6461723688",
-    "fdroid": "https://mirror.nju.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_463.apk",
-    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.6.2"
+    "fdroid": "https://mirror.tuna.tsinghua.edu.cn/fdroid/repo/io.github.benderblog.traintime_pda_483.apk",
+    "github": "https://github.com/BenderBlog/traintime_pda/releases/tag/v1.6.4"
 }
+
